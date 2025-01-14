@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1736890621481
-  login: 1736891046363
+  logout: 1736896481131
+  login: 1736896372891
   kits:
     firework: 1734198683900
     notch: 1734198708882
@@ -27,11 +27,11 @@ last-account-name: Mdinqt
 logoutlocation:
   world: bbf52a55-7f80-4b96-a7a5-57a8dd99f1b2
   world-name: Athenia
-  x: 191.05883210262147
+  x: 199.64434194219473
   y: 12.0
-  z: 408.9677058216224
-  yaw: 34.21722412109375
-  pitch: -0.8844047784805298
+  z: 408.9998359912354
+  yaw: -110.84149169921875
+  pitch: 12.323103904724121
 lastlocation:
   world: ce00a286-9b88-490f-8749-ddf3f35c16f3
   world-name: world
