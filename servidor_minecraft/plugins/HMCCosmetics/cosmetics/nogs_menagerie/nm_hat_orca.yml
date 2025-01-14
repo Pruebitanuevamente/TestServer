@@ -1,0 +1,10 @@
+nm_hat_orca:
+  slot: HELMET
+  permission: "hat.orca"
+  item:
+    material: PAPER
+    model-data: 3536
+    name: "<white>Orca Hat"
+    amount: 1
+
+# 191F7A9E5LH7UU9GWTUMJ394O78L
