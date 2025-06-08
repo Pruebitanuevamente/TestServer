@@ -1014,3 +1014,25 @@ ms<--[HERE]
 [04:45:56] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 18.95, 19.78, 19.93
 [04:46:07] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 18.95, 19.78, 19.93
 [04:48:41] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 19.78, 19.93
+[04:56:13] [Server thread/INFO]: Unknown or incomplete command, see below for error
+start<--[HERE]
+[04:56:16] [Server thread/INFO]: TPS from last 1m, 5m, 15m: 20.0, 20.0, 19.93
+[04:56:20] [Server thread/INFO]: [Not Secure] [Server] h
+[04:57:02] [Server thread/INFO]: Unknown or incomplete command, see below for error
+ip<--[HERE]
+[05:00:10] [User Authenticator #0/INFO]: UUID of player Mdinqt is f1afec0d-dcc8-3917-8765-ef5f0051b637
+[05:00:12] [TAB Processing Thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[05:00:13] [Server thread/INFO]: Mdinqt[/100.110.200.34:64607] logged in with entity id 95 at ([Athenia]199.64434194219473, 12.0, 408.9998359912354)
+[05:00:13] [Craft Scheduler Thread - 24 - PlaceholderAPI/INFO]: [LocalTime] Couldn't get Mdinqt's timezone. Will use default timezone.
+[05:00:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2520ms or 50 ticks behind
+[05:00:30] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user Mdinqt has successfully logged in.
+[05:00:49] [Server thread/INFO]: Mdinqt issued server command: /nickname
+[05:00:53] [Server thread/INFO]: Mdinqt issued server command: /nickname on
+[05:00:58] [Server thread/INFO]: Mdinqt issued server command: /nickname Mdinqt
+[05:01:45] [Server thread/INFO]: Mdinqt issued server command: /plugins
+[05:01:57] [Server thread/INFO]: Mdinqt issued server command: /animatedsb toggle off
+[05:01:58] [Server thread/INFO]: Mdinqt issued server command: /animatedsb toggle off
+[05:02:02] [Server thread/INFO]: Mdinqt issued server command: /animatedsb toggle on
+[05:02:21] [Server thread/INFO]: Mdinqt issued server command: /animatedsb toggle off
+[05:02:24] [Server thread/INFO]: Mdinqt issued server command: /animatedsb reload
+[05:03:01] [Server thread/INFO]: Mdinqt issued server command: /tab scoreboard off
