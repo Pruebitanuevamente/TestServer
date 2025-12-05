@@ -1,0 +1,37 @@
+quest-progress:
+  farming89cocoa:
+    started: false
+    started-date: 1733714438421
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      break:
+        completed: false
+  custom1shopguibuy:
+    started: false
+    started-date: 1733785851371
+    completed: true
+    completed-before: true
+    completion-date: 1733785851371
+    task-progress:
+      shopguibuy:
+        completed: false
+  misc17helpcommand:
+    started: false
+    started-date: 1734230417864
+    completed: true
+    completed-before: true
+    completion-date: 1734230417864
+    task-progress:
+      command:
+        completed: false
+  misc19spawncommand:
+    started: false
+    started-date: 1734230438164
+    completed: true
+    completed-before: true
+    completion-date: 1734230438164
+    task-progress:
+      command:
+        completed: false

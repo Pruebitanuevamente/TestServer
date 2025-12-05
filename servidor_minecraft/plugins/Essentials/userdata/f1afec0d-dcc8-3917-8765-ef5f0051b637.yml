@@ -1,0 +1,43 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.110.200.34
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734660528691
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1764907371317
+  login: 1764907377760
+  kits:
+    firework: 1734198683900
+    notch: 1734198708882
+    dtools: 1734198718323
+money: '3957.16'
+last-account-name: Mdinqt
+logoutlocation:
+  world: bbf52a55-7f80-4b96-a7a5-57a8dd99f1b2
+  world-name: Athenia
+  x: 199.64434194219473
+  y: 12.0
+  z: 408.9998359912354
+  yaw: -114.1089859008789
+  pitch: 13.023282051086426
+lastlocation:
+  world: ce00a286-9b88-490f-8749-ddf3f35c16f3
+  world-name: world
+  x: 183.51973808987407
+  y: 63.0
+  z: -16.802374087101565
+  yaw: 114.7264404296875
+  pitch: 15.813782691955566
+nickname: Mdinqt

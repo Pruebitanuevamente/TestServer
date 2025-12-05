@@ -1,0 +1,5 @@
+This file logs every player that disconnected during combat
+You can disable the logging in the config file
+
+[2024/12/09 10:47:09] Nucico tried to escape combat!
+[2024/12/09 10:47:55] Nucico tried to escape combat!
